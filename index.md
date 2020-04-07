@@ -12,4 +12,4 @@
 
 
 Mockup:
-![](images/mockup.png)
+![](images/mockup.PNG)
