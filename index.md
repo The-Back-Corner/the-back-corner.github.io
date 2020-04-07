@@ -13,4 +13,4 @@
 
 Mockup:
 
-![](images/mockup.PNG)
+![](images/mockup.png)
