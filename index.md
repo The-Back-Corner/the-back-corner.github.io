@@ -1,4 +1,4 @@
-# Snackadamic
+# Snackademic
 ### Goals:
   * Provide a place where students can go to see what food is available
     * Food Trucks
