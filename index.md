@@ -1,4 +1,12 @@
 # Snackademic
+
+### Team:
+* Clark Whitehead
+* David Harris
+* Jasmine Singleton
+* Ramit Islam
+
+
 ### Goals:
   * Provide a place where students can go to see what food is available
     * Food Trucks
@@ -11,6 +19,6 @@
     * 1-5 star feedback
 
 
-Mockup:
+#### Mockup:
 
 ![](images/mockup.png)
