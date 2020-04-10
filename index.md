@@ -1,10 +1,10 @@
 # Snackademic
 
 ### Team:
-* Clark Whitehead
-* David Harris
-* Jasmine Singleton
-* Ramit Islam
+* [Clark Whitehead](https://github.com/Clark-Whitehead)
+* [David Harris](https://github.com/Devoider)
+* [Jasmine Singleton](https://github.com/jrsingleton)
+* [Ramit Islam](https://github.com/ramytramit)
 
 
 ### Goals:
