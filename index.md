@@ -36,7 +36,7 @@ The app will be built utilizing [Semantic UI React](https://react.semantic-ui.co
 Please feel free to contact any of us via our GitHub links provided above
 
 
-### Project Progress & Developmen History
+### Project Progress & Development History
 You can follow the team's progress via our Milestones here:
 * [M1](https://github.com/the-back-corner/snackademic/projects/1)
 * M2
