@@ -4,9 +4,10 @@
 * [Overview](#overview)
 * [Goals](#goals)
 * [Team](#team)
-* [Mockup]
-* Community Feedback
-* Developer Guide
+* [Project Progress & Development History](#project-progress--development-history)
+* [Mockup](#mockup)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
 
 
 ### Overview
@@ -15,7 +16,7 @@ The goal of Snackademic is to give students at UH a way to keep track of all the
 The app will be built utilizing [Semantic UI React](https://react.semantic-ui.com/), [Meteor](https://www.meteor.com/), [React](https://reactjs.org/), and [Uniforms](https://uniforms.tools/). Details on how to install and run the application locally will be provided soon.
 
 
-### Goals: <a name="goals"></a>
+### Goals:
   * Create a website where students can go to see what food is available, including pages for the following:
     * Food Trucks
     * Resturants/Dining Halls
@@ -35,7 +36,7 @@ The app will be built utilizing [Semantic UI React](https://react.semantic-ui.co
 Please feel free to contact any of us via our GitHub links provided above
 
 
-### Project Progress & Dev History
+### Project Progress & Developmen History
 You can follow the team's progress via our Milestones here:
 * [M1](https://github.com/the-back-corner/snackademic/projects/1)
 * M2
