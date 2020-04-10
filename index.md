@@ -1,6 +1,5 @@
-# Snackademic
 
-### Table of Contents
+## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
 * [Team](#team)
