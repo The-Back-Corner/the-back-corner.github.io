@@ -43,7 +43,7 @@ You can follow the team's progress via our Milestones here:
 * M3
 
 
-#### Mockup:
+### Mockup:
 
 ![](images/mockup.png)
 
