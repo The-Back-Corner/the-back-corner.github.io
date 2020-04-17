@@ -41,7 +41,7 @@ Please feel free to contact any of us via our GitHub links provided below.
 You can follow the team's progress via our Milestones here:
 * [M1](https://github.com/the-back-corner/snackademic/projects/1)
 * [M2](https://github.com/the-back-corner/snackademic/projects/2)
-* [M3]https://github.com/the-back-corner/snackademic/projects/3)
+* [M3](https://github.com/the-back-corner/snackademic/projects/3)
 
 
 ### Mockup:
