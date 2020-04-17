@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f52b339-3bc8-49c2-bb93-7a1f398cc944" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/landing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/locations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/signin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +17,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -28,7 +26,6 @@
   <component name="ProjectId" id="1aCnEdf3nkFZKILPuo5WLiUjXN7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -49,16 +46,16 @@
     </key>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586248520255">
       <screen x="0" y="22" width="1680" height="1028" />
     </state>
     <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1586248520255" />
-    <state x="496" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1586484268148">
+    <state x="496" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1586740008712">
       <screen x="0" y="22" width="1680" height="1028" />
     </state>
-    <state x="496" y="390" key="com.intellij.ide.util.TipDialog/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1586484268148" />
+    <state x="496" y="390" key="com.intellij.ide.util.TipDialog/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1586740008712" />
   </component>
 </project>
