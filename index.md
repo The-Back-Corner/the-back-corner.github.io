@@ -6,8 +6,8 @@
 * [Project Progress & Development History](#project-progress--development-history)
 * [Mockup](#mockup)
 * [Galaxy Deployment](#galaxy-deployment)
-* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 
 
 ### Overview
