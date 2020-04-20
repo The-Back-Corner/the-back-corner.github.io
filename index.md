@@ -30,10 +30,10 @@ The app will be built utilizing [Semantic UI React](https://react.semantic-ui.co
     
 ### Team:
 Please feel free to contact any of us via our GitHub links provided below.
-* [Clark Whitehead](https://github.com/Clark-Whitehead)
-* [David Harris](https://github.com/Devoider)
-* [Jasmine Singleton](https://github.com/jrsingleton)
-* [Ramit Islam](https://github.com/ramytramit)
+* [Clark Whitehead](https://clark-whitehead.github.io)
+* [David Harris](https://devoider.github.io)
+* [Jasmine Singleton](https://jrsingleton.github.io)
+* [Ramit Islam](https://ramytramit.github.io)
 
 
 ### Project Progress & Development History
