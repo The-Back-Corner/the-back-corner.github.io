@@ -119,9 +119,9 @@ I20180227-13:33:02.744(-10)?   Adding: Boogie Board (admin@foo.com)
 => App running at: http://localhost:3000/
 ```
 
-###Quality Assurance
+### Quality Assurance
 
-####ESLint
+#### ESLint
 
 The application includes a [.eslintrc](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
