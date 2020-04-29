@@ -1,6 +1,5 @@
 
-# Snackademic: 
-# A Site to Satiate Your Manoa Munchies
+## Snackademic: A Site to Satiate Your Manoa Munchies
 
 ## Table of Contents
 * [Overview](#overview)
