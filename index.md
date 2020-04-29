@@ -153,7 +153,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/guide3.png)
 
-You can then navigate to **Foodtrucks**, **Restaurants**, **Menus** or **Hours** (the last two pages will be implemented soon) and select an item from the dropdown menu. For this example, we will select Dunkin Donuts from Restaurants dropdown menu. You'll then be redirected to their page which shows all their menu offerings.
+* You can then navigate to **Foodtrucks**, **Restaurants**, **Menus** or **Hours** (the last two pages will be implemented soon) and select an item from the dropdown menu. For this example, we will select Dunkin Donuts from Restaurants dropdown menu. You'll then be redirected to their page which shows all their menu offerings.
 
 ![](images/guide4.png)
 
