@@ -139,6 +139,25 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ### User Guide
 
+* First, **Register** for an account by clicking the Register button on the main landing page or from the dropdown page on the top right of the nav bar. 
+
+![](images/guide1.png)
+
+
+* Next, **Sign In** by clicking the Sign In button on the landing page (or from the drop down menu on the top right corner of the nav bar). You'll then be redirected to the Sign In page as depicted in the image below. For this example, we will log in as as a "user" given the default sign in credentials for the class.
+
+![](images/guide2.png)
+
+* Once you're signed in as user "john", you'll be redirected to the favorites page where you can see a list of your favorite restaurants. Users will also be able to leave ratings for their favorite foodtrucks and restaurants (feature coming soon).
+
+![](images/guide3.png)
+
+You can then navigate to **Foodtrucks**, **Restaurants**, or **Menus** or **Hours** (the last two pages will be implemented soon). For this example, we will click on Restaurants. Here you can see all the menu offerings by each restaurant, in this case Dunkin Donuts.
+
+![](images/guide4.png)
+
+* You can also log in as a vendor, which will allow you to make edits to your restaurant or food truck, such as updating the menus, hours, etc (feature to be updated soon).
+* Finally, you can also to log in as an admin, where you will be able to view all the user data for users and vendors (feature to be updated soon).
 
 ### Community Feedback
 
