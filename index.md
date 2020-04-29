@@ -138,6 +138,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 
 ### User Guide
+#### To get started with our application, please follow the steps outlined below.
 
 * First, **Register** for an account by clicking the Register button on the main landing page or from the dropdown page on the top right of the nav bar. 
 
