@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f52b339-3bc8-49c2-bb93-7a1f398cc944" name="Default Changelist" comment="">
+    <list default="true" id="4f52b339-3bc8-49c2-bb93-7a1f398cc944" name="Default Changelist" comment="Added some text to User Guide">
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +46,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added some text to User Guide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some text to User Guide" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586248520255">
       <screen x="0" y="22" width="1680" height="1028" />
     </state>
     <state x="578" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1586248520255" />
+    <state x="455" y="91" key="CommitChangelistDialog2" timestamp="1588140987560">
+      <screen x="0" y="22" width="1680" height="1028" />
+    </state>
+    <state x="455" y="91" key="CommitChangelistDialog2/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1588140987560" />
     <state x="496" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1586740008712">
       <screen x="0" y="22" width="1680" height="1028" />
     </state>
     <state x="496" y="390" key="com.intellij.ide.util.TipDialog/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1586740008712" />
+    <state x="680" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588140857482">
+      <screen x="0" y="22" width="1680" height="1028" />
+    </state>
+    <state x="680" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.22.1680.1028/1680.22.1920.1058@0.22.1680.1028" timestamp="1588140857482" />
   </component>
 </project>
