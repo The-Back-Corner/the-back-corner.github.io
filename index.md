@@ -153,7 +153,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/guide3.png)
 
-You can then navigate to **Foodtrucks**, **Restaurants**, or **Menus** or **Hours** (the last two pages will be implemented soon). For this example, we will click on Restaurants. Here you can see all the menu offerings by each restaurant, in this case Dunkin Donuts.
+You can then navigate to **Foodtrucks**, **Restaurants**, **Menus** or **Hours** (the last two pages will be implemented soon). For this example, we will click on Restaurants. Here you can see all the menu offerings by each restaurant, in this case Dunkin Donuts.
 
 ![](images/guide4.png)
 
