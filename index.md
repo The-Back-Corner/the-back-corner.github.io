@@ -54,24 +54,70 @@ You can follow the team's progress via our Milestones here:
 
 
 ### Galaxy Deployment:
-You can view our deployed page on Galaxy here: [snackademic.meteorapp.com](http://snackademic.meteorapp.com/)
-While we still have a bit of work to do to get our aesthetics smoothed out, but you can see some of the progress via the screenshots below.
+You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](http://snackademic.meteorapp.com/)</del>
 
-The first is our [Landing Page](http://snackademic.meteorapp.com/#/), which is similar to our mockup, but we will be updating the visuals by the next milestone.
+**UPDATE:** Since our trial run on Galaxy has expired, we have updated all the images for our site to reflect what you'd see if the site were active. 
+
+**Landing Page**
 
 ![](images/landing.png)
+<p>
+<p>
 
-Next we have our [Sign Up Page](http://snackademic.meteorapp.com/#/signup), where you can register your account. If you're a student, you can sign up for an account here. If you're a vendor (a restaurant or food truck), you can sign up here as well. 
+**Registration Page**
 
-![](images/signup.png)
+![](images/register.png)
 
-The third page that is currently up for viewing is our [Login Page](http://snackademic.meteorapp.com/#/signin). 
+<p>
+<p>
 
-![](images/login.png)
+**Sign In Page**
 
-Finally we have our [Locations Page](http://snackademic.meteorapp.com/#/map). This page will eventually have a map with exact restaurant and food truck locations along with their hours. You must be logged in to view this page.
+![](images/signin.png)
 
-![](images/locations.png)
+<p>
+<p>
+
+**Foodtrucks Page**
+
+![](images/foodtrucks.png)
+
+<p>
+<p>
+
+**Restaurants Page**
+
+![](images/restaurants.png)
+
+<p>
+<p>
+
+**Maps Page**
+
+![](images/maps.png)
+
+<p>
+<p>
+
+**Eatery Hours Page**
+
+![](images/hours.png)
+
+<p>
+<p>
+
+**Account Page**
+
+![](images/account.png)
+
+
+<p>
+<p>
+
+**Vendor Eatery Page**
+
+![](images/vendoreatery.png)
+
 
 ### Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
