@@ -62,9 +62,6 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 
 ![](images/landing.png)
 
-**Registration Page**
-
-![](images/register.png)
 
 **Registration Page**
 
@@ -76,11 +73,9 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 ![](images/signin.png)
 
 
-
 **Foodtrucks Page**
 
 ![](images/foodtrucks.png)
-
 
 
 **Restaurants Page**
@@ -88,11 +83,9 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 ![](images/restaurants.png)
 
 
-
 **Maps Page**
 
 ![](images/maps.png)
-
 
 
 **Eatery Hours Page**
@@ -100,11 +93,9 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 ![](images/hours.png)
 
 
-
 **Account Page**
 
 ![](images/account.png)
-
 
 
 **Vendor Eatery Page**
