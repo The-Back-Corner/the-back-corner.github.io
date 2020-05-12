@@ -61,58 +61,48 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 **Landing Page**
 
 ![](images/landing.png)
-<p>
-<p>
+
 
 **Registration Page**
 
 ![](images/register.png)
 
-<p>
-<p>
 
 **Sign In Page**
 
 ![](images/signin.png)
 
-<p>
-<p>
+
 
 **Foodtrucks Page**
 
 ![](images/foodtrucks.png)
 
-<p>
-<p>
+
 
 **Restaurants Page**
 
 ![](images/restaurants.png)
 
-<p>
-<p>
+
 
 **Maps Page**
 
 ![](images/maps.png)
 
-<p>
-<p>
+
 
 **Eatery Hours Page**
 
 ![](images/hours.png)
 
-<p>
-<p>
+
 
 **Account Page**
 
 ![](images/account.png)
 
 
-<p>
-<p>
 
 **Vendor Eatery Page**
 
