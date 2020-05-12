@@ -62,6 +62,9 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 
 ![](images/landing.png)
 
+**Registration Page**
+
+![](images/register.png)
 
 **Registration Page**
 
