@@ -164,4 +164,16 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ### Community Feedback
 
-We are interested in your experience using Snackademic! If you would like, please take a couple of minutes to fill out our feedback form here: (coming soon). It contains a few short questions that will help us understand how to improve the system.
+We asked several members of the community to test out our application and give us some feedback on it. A few updates to the app were made based on their evaluation. These changed included things such as unifying the aesthetics and colors, and updating some of our button functionalities and background images. The summary of their assessments are as follows:
+
+* **Test User 1:** The visual is 10/10, but the menu leaves something to be desired. Some pages look a bit odd in regards to scaling and placement. Footer doesn't stick to the bottom of my browser, and data takes forever to load. Overall, I would give it a 9/10. It's definitely a project to be proud of.
+
+* **Test User 2:** The site is generally aesthetically pleasing, but the white text of the restaurant descriptions is a bit hard to read against many of the background images.  It's not terrible, but you have to put some effort into reading it which is more than preferable.  Being able to see menu items, prices, locations, and hours is very convenient, but it would be nice if it was more interlinked.  Being able to see hours (or at least today's hours) and location on the restaurant page would have been nice.  It would have been nice if the map was more dynamic, such as taking you to a restaurant page when you clicked on the corresponding icon, though I know that would have been a lot harder to implement (and also google maps integration costs money now, right?  I fully understand it wouldn't have been worth it for a school project, if I'm trying to review outside that context, it would have been nice to see. Overall, despite my criticisms, it's quite a nice site.  It's just easier to note the things that could have been better than to pin down what's particularly good. 
+
+* **Test User 3:** Oh, meteor react. you poor bastards! That stuff is a pain in the ass to get the layout how you want. esp if you want it to autosize to window sizes. landing looks good, better than what my group did in that class. Someone on your team has design talent. If you want to users to be able to add pictures I can point you in the right direction. Also, I'd remove the Hours table from the Map page. It's redundant and takes away from your custom static map.
+
+* **Test User 4:** Review section doesnt have any reviews for many of the trucks. Buttons dont do anythings. All backgrounds are the same; I would like to see variety based on the restaurant. Really good work on the map!
+
+* **Test User 5:** I like the logo.
+
+* **Test User 6:** Love the color scheme and organization. The map is very readable, and it's smart to have a separate hours page. I suggest changing the white tables to have a brighter background, and add hours to the individual pages for each place.  Please left justify text - it is stressful to read. Very pretty colors and layout. 
