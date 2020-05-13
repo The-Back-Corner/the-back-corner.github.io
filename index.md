@@ -177,20 +177,26 @@ It's significantly easier to do development with ESLint integrated directly into
 ### User Guide
 #### To get started with our application, please follow the steps outlined below.
 
-* First, **Register** for an account by clicking the Register button on the main landing page or from the dropdown page on the top right of the nav bar. 
+* First, **Register** for an account by clicking the Register button on the main landing page or from the dropdown page on the top right of the nav bar. Your password must be at least 8 characters. 
 
-![](images/guide1.png)
+![](images/register.png)
 
 
-* Next, **Sign In** by clicking the Sign In button on the landing page (or from the drop down menu on the top right corner of the nav bar). You'll then be redirected to the Sign In page as depicted in the image below. For this example, we will log in as as a "user" given the default sign in credentials for the class.
+* If you have already registered, **Sign In** by clicking the Sign In button on the landing page (or from the drop down menu on the top right corner of the nav bar). You'll then be redirected to the Sign In page as depicted in the image below. For this example, we will log in as as a "user" given the default sign in credentials for the class. You will be redirected to a different page based on the role of your account.
 
-![](images/guide2.png)
+![](images/signin.png)
 
-* Once you're signed in as user "john", you'll be redirected to the favorites page where you can see a list of your favorite restaurants. Users will also be able to leave ratings for their favorite foodtrucks and restaurants (feature coming soon).
+* on the account page, you can see your favorite restaurants, reviews, and your user account information. 
 
-![](images/guide3.png)
+![](images/myaccount.png)
 
-* You can then navigate to **Foodtrucks**, **Restaurants**, **Menus** or **Hours** (the last two pages will be implemented soon) and select an item from the dropdown menu. For this example, we will select Dunkin Donuts from Restaurants dropdown menu. You'll then be redirected to their page which shows all their menu offerings.
+* you can change your password
+![](images/change-password.png)
+
+* or deactivate your account.
+![](images/delete-account.png)
+
+* You can select a foodtruck or restaurant from the dropdown, and it will redirect to 
 
 ![](images/guide4.png)
 
