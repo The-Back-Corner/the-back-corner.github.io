@@ -34,7 +34,7 @@ The app will be built utilizing [Semantic UI React](https://react.semantic-ui.co
     
     
 ### Team:
-Please feel free to contact any of us via our GitHub links provided below.
+Please feel free to contact any of us via our GitHub links provided below. 
 * [Clark Whitehead](https://clark-whitehead.github.io)
 * [David Harris](https://devoider.github.io)
 * [Jasmine Singleton](https://jrsingleton.github.io)
