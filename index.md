@@ -191,9 +191,11 @@ It's significantly easier to do development with ESLint integrated directly into
 ![](images/myaccount.png)
 
 * you can change your password
+
 ![](images/change-password.png)
 
-* or deactivate your account.
+* or deactivate your account
+
 ![](images/delete-account.png)
 
 * You can select a foodtruck or restaurant from the dropdown, and it will redirect to 
