@@ -63,50 +63,6 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 ![](images/landing.png)
 
 
-**Registration Page**
-
-![](images/register.png)
-
-
-**Sign In Page**
-
-![](images/signin.png)
-
-
-**Restaurants Page**
-
-![](images/restaurants.png)
-
-
-**Foodtrucks Page**
-
-![](images/foodtrucks.png)
-
-
-**Maps Page**
-
-![](images/maps.png)
-
-
-**Eatery Hours Page**
-
-![](images/hours.png)
-
-
-**Account Page**
-
-![](images/myaccount.png)
-
-
-**Admin All Account View Page**
-
-![](images/allaccounts.png)
-
-**Vendor Eatery Page**
-
-![](images/vendoreatery.png)
-
-
 ### Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
@@ -188,7 +144,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 * on the account page, you can see your favorite restaurants, reviews, and your user account information. 
 
-![](images/profilepage.png)
+![](images/accountpage.png)
 
 * you can change your password
 
