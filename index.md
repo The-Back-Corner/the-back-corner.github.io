@@ -73,14 +73,14 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 ![](images/signin.png)
 
 
-**Foodtrucks Page**
-
-![](images/foodtrucks.png)
-
-
 **Restaurants Page**
 
 ![](images/restaurants.png)
+
+
+**Foodtrucks Page**
+
+![](images/foodtrucks.png)
 
 
 **Maps Page**
@@ -95,8 +95,12 @@ You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](
 
 **Account Page**
 
-![](images/account.png)
+![](images/myaccount.png)
 
+
+**Admin All Account View Page**
+
+![](images/allaccounts.png)
 
 **Vendor Eatery Page**
 

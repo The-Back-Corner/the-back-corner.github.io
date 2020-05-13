@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f52b339-3bc8-49c2-bb93-7a1f398cc944" name="Default Changelist" comment="Added some text to User Guide">
+      <change afterPath="$PROJECT_DIR$/images/allaccounts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/myaccount.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foodtrucks.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/foodtrucks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hours.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/hours.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/landing.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/landing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/maps.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/maps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/register.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/register.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/restaurants.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/restaurants.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/signin.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/signin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vendoreatery.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/vendoreatery.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
