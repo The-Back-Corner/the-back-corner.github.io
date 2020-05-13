@@ -198,10 +198,28 @@ It's significantly easier to do development with ESLint integrated directly into
 
 * You can select a foodtruck or restaurant from the dropdown, and it will redirect to 
 
-![](images/guide4.png)
+![](images/restaurants.png)
 
-* You can also log in as a vendor, which will allow you to make edits to your restaurant or food truck, such as updating the menus, hours, etc (feature to be updated soon).
-* Finally, you can also to log in as an admin, where you will be able to view all the user data for users and vendors (feature to be updated soon).
+* you can add it to favorites, by clicking the add to favorites button.
+![](images/remove-favorite.png)
+
+* view the menu 
+![](images/foodtrucks.png)
+
+* view the reviews (currently the only page with reviews is Sistahs foodtruck)
+![](images/review-preview.png)
+
+* The Maps page displays where the restaurants and foodtrucks are currently, and when they are open. If it is tuesday it will display this: 
+![](images/maps.png)
+
+* The Hours page displays the hours of each restaurant/foodtruck hours depending on the day, if it is tuesday it will display this:
+![](images/hours.png)
+
+* As a Vendor, you can view your eatery
+![](images/vendoreatery.png)
+
+* As an Admin, you can view the registered accounts:
+![](images/allaccounts.png)
 
 ### Community Feedback
 
