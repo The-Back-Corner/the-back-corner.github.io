@@ -34,7 +34,7 @@ The app will be built utilizing [Semantic UI React](https://react.semantic-ui.co
     
     
 ### Team:
-Please feel free to contact any of us via our GitHub links provided below. 
+Please feel free to contact any of us via our GitHub links provided below. You may also view our GitHub organization page here: [github.com/the-back-corner](https://github.com/the-back-corner)
 * [Clark Whitehead](https://clark-whitehead.github.io)
 * [David Harris](https://devoider.github.io)
 * [Jasmine Singleton](https://jrsingleton.github.io)
