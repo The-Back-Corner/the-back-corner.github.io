@@ -188,7 +188,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 * on the account page, you can see your favorite restaurants, reviews, and your user account information. 
 
-![](images/myaccount.png)
+![](images/profilepage.png)
 
 * you can change your password
 
