@@ -31,8 +31,8 @@ The app will be built utilizing [Semantic UI React](https://react.semantic-ui.co
   * Provide a place to review these food places
     * Written Review individual locations
     * 1-5 star feedback
-    
-    
+
+
 ### Team:
 Please feel free to contact any of us via our GitHub links provided below. You may also view our GitHub organization page here: [github.com/the-back-corner](https://github.com/the-back-corner)
 * [Clark Whitehead](https://clark-whitehead.github.io)
@@ -56,55 +56,11 @@ You can follow the team's progress via our Milestones here:
 ### Galaxy Deployment:
 You can view our deployed page on Galaxy here: <del>[snackademic.meteorapp.com](http://snackademic.meteorapp.com/)</del>
 
-**UPDATE:** Since our trial run on Galaxy has expired, we have updated all the images for our site to reflect what you'd see if the site were active. 
+**UPDATE:** Since our trial run on Galaxy has expired, we have updated all the images for our site to reflect what you'd see if the site were active.
 
 **Landing Page**
 
 ![](images/landing.png)
-
-
-**Registration Page**
-
-![](images/register.png)
-
-
-**Sign In Page**
-
-![](images/signin.png)
-
-
-**Restaurants Page**
-
-![](images/restaurants.png)
-
-
-**Foodtrucks Page**
-
-![](images/foodtrucks.png)
-
-
-**Maps Page**
-
-![](images/maps.png)
-
-
-**Eatery Hours Page**
-
-![](images/hours.png)
-
-
-**Account Page**
-
-![](images/myaccount.png)
-
-
-**Admin All Account View Page**
-
-![](images/allaccounts.png)
-
-**Vendor Eatery Page**
-
-![](images/vendoreatery.png)
 
 
 ### Developer Guide
@@ -113,7 +69,7 @@ This section provides information of interest to Meteor developers wishing to us
 #### Installation
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [snackademic application github page](https://github.com/the-back-corner/snackademic), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. 
+Second, visit the [snackademic application github page](https://github.com/the-back-corner/snackademic), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.
 
 Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
 
@@ -177,7 +133,7 @@ It's significantly easier to do development with ESLint integrated directly into
 ### User Guide
 #### To get started with our application, please follow the steps outlined below.
 
-* First, **Register** for an account by clicking the Register button on the main landing page or from the dropdown page on the top right of the nav bar. Your password must be at least 8 characters. 
+* First, **Register** for an account by clicking the Register button on the main landing page or from the dropdown page on the top right of the nav bar. Your password must be at least 8 characters.
 
 ![](images/register.png)
 
@@ -186,9 +142,9 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/signin.png)
 
-* on the account page, you can see your favorite restaurants, reviews, and your user account information. 
+* on the account page, you can see your favorite restaurants, reviews, and your user account information.
 
-![](images/myaccount.png)
+![](images/accountpage.png)
 
 * you can change your password
 
@@ -198,12 +154,37 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/delete-account.png)
 
-* You can select a foodtruck or restaurant from the dropdown, and it will redirect to 
+* You can select a foodtruck or restaurant from the dropdown, and it will redirect to
 
-![](images/guide4.png)
+![](images/restaurants.png)
 
-* You can also log in as a vendor, which will allow you to make edits to your restaurant or food truck, such as updating the menus, hours, etc (feature to be updated soon).
-* Finally, you can also to log in as an admin, where you will be able to view all the user data for users and vendors (feature to be updated soon).
+* you can add it to favorites, by clicking the add to favorites button.
+
+![](images/remove-favorite.png)
+
+* view the menu
+
+![](images/foodtrucks.png)
+
+* view the reviews (currently the only page with reviews is Sistahs foodtruck)
+
+![](images/review-preview.png)
+
+* The Maps page displays where the restaurants and foodtrucks are currently, and when they are open. If it is tuesday it will display this:
+
+![](images/maps.png)
+
+* The Hours page displays the hours of each restaurant/foodtruck hours depending on the day, if it is Tuesday it will display this:
+
+![](images/hours.png)
+
+* As a Vendor, you can view your eatery
+
+![](images/vendoreatery.png)
+
+* As an Admin, you can view the registered accounts:
+
+![](images/allaccounts.png)
 
 ### Community Feedback
 
