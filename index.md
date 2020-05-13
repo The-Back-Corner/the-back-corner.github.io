@@ -142,15 +142,15 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/signin.png)
 
-* on the account page, you can see your favorite restaurants, reviews, and your user account information.
+* On the account page, you can see your favorite restaurants, reviews, and your user account information.
 
 ![](images/accountpage.png)
 
-* you can change your password
+* You can change your password
 
 ![](images/change-password.png)
 
-* or deactivate your account
+* Or deactivate your account
 
 ![](images/delete-account.png)
 
@@ -158,15 +158,15 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/restaurants.png)
 
-* you can add it to favorites, by clicking the add to favorites button.
+* You can add it to favorites, by clicking the add to favorites button.
 
 ![](images/remove-favorite.png)
 
-* view the menu
+* View the menu
 
 ![](images/foodtrucks.png)
 
-* view the reviews (currently the only page with reviews is Sistahs foodtruck)
+* View the reviews (currently the only page with reviews is Sistahs foodtruck)
 
 ![](images/review-preview.png)
 
